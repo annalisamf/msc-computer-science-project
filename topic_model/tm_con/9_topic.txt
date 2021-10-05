@@ -1,0 +1,37 @@
+[(0, HUNT_SUPPORT
+  '0.017*"hastobehunt" + 0.014*"jeremy_hunt" + 0.014*"maritime" + 0.012*"hunt" '
+  '+ 0.007*"port" + 0.005*"ballot" + 0.004*"sea" + 0.004*"nov" + '
+  '0.004*"german" + 0.004*"ni"'),
+ (1, LOCAL_GOVT
+  '0.007*"rugby" + 0.005*"tourism" + 0.004*"smallbizsatuk" + '
+  '0.004*"town_centre" + 0.004*"xmas" + 0.004*"district" + 0.004*"festive" + '
+  '0.004*"christmas_lights" + 0.003*"moray" + 0.003*"petition"'),
+ (2, CUSTOM_UNION
+  '0.007*"customs_union" + 0.005*"compromise" + 0.005*"remainer" + 0.004*"erg" '
+  '+ 0.004*"lib_dems" + 0.004*"lib_dem" + 0.004*"disagree" + 0.004*"brexiteer" '
+  '+ 0.003*"customs" + 0.003*"brexiteers"'),
+ (3, SPORT
+  '0.004*"cricket" + 0.003*"weekly" + 0.003*"loved" + 0.003*"sports" + '
+  '0.003*"player" + 0.003*"baby" + 0.003*"loneliness" + 0.003*"awesome" + '
+  '0.003*"world_cup" + 0.002*"lady"'),
+ (4, FOREIGN_POLICY
+  '0.009*"syria" + 0.006*"africa" + 0.006*"commonwealth" + 0.006*"army" + '
+  '0.005*"mk" + 0.005*"military" + 0.005*"nato" + 0.004*"kill" + '
+  '0.004*"conflict" + 0.004*"iran"'),
+ (5, UNIVERSITY_INNOVATION
+  '0.006*"universities" + 0.006*"export" + 0.005*"engineering" + '
+  '0.004*"innovative" + 0.004*"ai" + 0.003*"transform" + 0.003*"forum" + '
+  '0.003*"social_mobility" + 0.003*"arts" + 0.003*"northernpowerhouse"'),
+ (6, NATIONAL_ECONOMY
+  '0.007*"voteconservative" + 0.004*"cut_taxes" + 0.004*"nurses" + '
+  '0.004*"jewish" + 0.004*"income_tax" + 0.004*"inflation" + '
+  '0.003*"unleash_potential" + 0.003*"employment_rate" + 0.003*"lib_dems" + '
+  '0.003*"knife_crime"'),
+ (7, INFRASTRUCTURE_ENTERPRISE
+  '0.003*"plant" + 0.003*"vehicle" + 0.003*"expected" + 0.003*"authority" + '
+  '0.003*"individual" + 0.003*"castle" + 0.003*"consumer" + 0.003*"martin" + '
+  '0.003*"sale" + 0.003*"borough"'),
+ (8, SNP
+  '0.007*"snp" + 0.004*"trump" + 0.004*"guy" + 0.004*"politician" + '
+  '0.003*"imagine" + 0.003*"nicola_sturgeon" + 0.003*"fake" + 0.003*"shame" + '
+  '0.003*"tories" + 0.003*"remarkable"')]

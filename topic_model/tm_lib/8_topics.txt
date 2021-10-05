@@ -1,0 +1,32 @@
+[(0, ENVIRONMENT
+  '0.004*"global" + 0.003*"nurses" + 0.003*"university" + 0.003*"science" + '
+  '0.003*"land" + 0.003*"drug" + 0.003*"drugs" + 0.003*"paper" + '
+  '0.002*"nature" + 0.002*"practice"'),
+ (1,REVOKE_ART50
+  '0.003*"moderate" + 0.003*"nonsense" + 0.003*"ld" + 0.003*"revoke" + '
+  '0.002*"disagree" + 0.002*"fake" + 0.002*"ken_clarke" + 0.002*"antisemitism" '
+  '+ 0.002*"tactical_voting" + 0.002*"whip"'),
+ (2, LOCAL_GOVT
+  '0.007*"library" + 0.005*"lane" + 0.004*"libdemfightback" + 0.004*"xmas" + '
+  '0.004*"traffic" + 0.004*"consultation" + 0.003*"woking" + 0.003*"county" + '
+  '0.003*"councils" + 0.003*"church"'),
+ (3, BREXIT_NEGOTIATIONS
+  '0.003*"gove" + 0.003*"ireland" + 0.003*"brussels" + 0.003*"stopthecoup" + '
+  '0.003*"mogg" + 0.003*"nodealbrexit" + 0.003*"russia" + '
+  '0.003*"investigation" + 0.003*"dup" + 0.003*"dominic_raab"'),
+ (4, RACISM
+  '0.003*"yeah" + 0.003*"funny" + 0.003*"mate" + 0.003*"god" + 0.003*"guys" + '
+  '0.002*"white" + 0.002*"dad" + 0.002*"lol" + 0.002*"cat" + 0.002*"folks"'),
+ (5, ENTERTAINMENT
+  '0.005*"fab" + 0.004*"congratulations" + 0.004*"fabulous" + 0.003*"solihull" '
+  '+ 0.003*"dm" + 0.003*"initiative" + 0.003*"steve" + 0.003*"festival" + '
+  '0.003*"pop" + 0.003*"summer"'),
+ (6, LGBT
+  '0.015*"scotland" + 0.011*"wales" + 0.009*"snp" + 0.007*"trans" + '
+  '0.005*"westminster_voting" + 0.005*"brecon_radnorshire" + 0.004*"pride" + '
+  '0.004*"lgbt" + 0.004*"swinson" + 0.004*"gay"'),
+ (7, DEMAND_BETTER
+  '0.007*"votelibdem" + 0.006*"ldconf" + 0.005*"libdemsurge" + '
+  '0.005*"demandbetter" + 0.004*"bbcqt" + 0.004*"disastrous" + '
+  '0.003*"exitfrombrexit" + 0.003*"ambitious" + 0.003*"build_brighterfuture" + '
+  '0.003*"deserves"')]

@@ -1,0 +1,33 @@
+[(0,
+  '0.006*"islamophobia" + 0.005*"windrush" + 0.005*"leasehold" + '
+  '0.004*"borough" + 0.004*"cycle" + 0.004*"nursery" + 0.003*"londoners" + '
+  '0.003*"legal_aid" + 0.003*"knife" + 0.003*"hackney"'),
+ (1,
+  '0.005*"steel" + 0.005*"advice_surgery" + 0.004*"rugby" + 0.003*"concert" + '
+  '0.003*"ruth" + 0.003*"valley" + 0.003*"sharon" + 0.003*"davies" + '
+  '0.003*"jones" + 0.003*"british_steel"'),
+ (2,
+  '0.007*"peoplesvote" + 0.003*"cummings" + 0.003*"backstop" + '
+  '0.003*"finalsay" + 0.003*"confirmatory" + 0.003*"snp" + 0.002*"nec" + '
+  '0.002*"brexitshambles" + 0.002*"single_market" + 0.002*"russian"'),
+ (3,
+  '0.005*"universalcredit" + 0.005*"ireland" + 0.004*"hunger" + 0.003*"yemen" '
+  '+ 0.003*"irish" + 0.003*"sikh" + 0.003*"derby" + 0.003*"india" + '
+  '0.003*"wirral" + 0.002*"canvassing"'),
+ (4,
+  '0.024*"tomorrowspaperstoday" + 0.009*"survivors" + 0.009*"abortion" + '
+  '0.009*"emma" + 0.008*"bbcpaper_tomorrowspaperstoday" + 0.008*"sex" + '
+  '0.006*"telegraph" + 0.006*"mirror" + 0.005*"rape" + '
+  '0.004*"nazanin_zaghari"'),
+ (5,
+  '0.006*"green_industrial" + 0.004*"billionaire" + 0.004*"botch" + '
+  '0.004*"john_mcdonnell" + 0.003*"itvdebate" + 0.003*"rail_fare" + '
+  '0.003*"firefighters" + 0.003*"richest" + 0.003*"fare" + 0.003*"ridge"'),
+ (6,
+  '0.003*"flood" + 0.003*"otd" + 0.003*"heritage" + 0.002*"town_hall" + '
+  '0.002*"flooding" + 0.002*"leigh" + 0.002*"animal" + 0.002*"dementia" + '
+  '0.002*"switch" + 0.002*"county"'),
+ (7,
+  '0.003*"xx" + 0.002*"xxx" + 0.002*"yep" + 0.002*"disagree" + 0.002*"episode" '
+  '+ 0.002*"possibly" + 0.002*"god" + 0.002*"gamble" + 0.002*"utter" + '
+  '0.002*"joke"')]
